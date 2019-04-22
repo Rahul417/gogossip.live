@@ -1,5 +1,5 @@
 # Steps to configure
-## Generate Token from (whatsappapi.in)[https://www.whatsappapi.in] & Configure parameter in whatsapp_class.php file as below
+## Generate Token from [https://www.whatsappapi.in] & Configure parameter in whatsapp_class.php file as below
 ```php
 /* Change This Parameter */
 $apiToken = 'Your-Token'; // eg. 3546534354354
