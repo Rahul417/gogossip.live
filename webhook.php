@@ -1,7 +1,7 @@
 <?php
 
 /* Post DATA */
-$data = json_decode($_POST);
+$data = json_decode(json_encode($_POST));
 
 // When you receive a message an RECEIVED or IMAGE type is created
 if($data->type == "RECEIVED" || $data->type == "IMAGE")
