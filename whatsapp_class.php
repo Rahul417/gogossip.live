@@ -16,7 +16,7 @@ class WhatsAppAPI
 	public $apiUrl;
 	function __construct()
 	{
-		$this->apiUrl = 'https://www.whatsappapi.in/api';
+		$this->apiUrl = 'https://www.gogossip.live/api';
 	}
 	/**
 	* @param int $country_code to user country code
