@@ -9,7 +9,7 @@ $fromNumber = 'Your-Whatsapp-Number'; // eg. 91987654**** (with country code wit
 /**
 *	Class: WhatsAppAPI
 *
-* 	Class for send whatsapp message using https://www.whatsappapi.in API
+* 	Class for send whatsapp message using https://www.gogossip.live API
 */
 class WhatsAppAPI
 {
